@@ -1,4 +1,4 @@
-import Container from "../.next/components/Container"
+import Container from "../components/Container"
 
 const Services = () => {
     return (

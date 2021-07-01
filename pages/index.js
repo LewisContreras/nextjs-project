@@ -1,7 +1,7 @@
 import Head from "next/head"
-import Container from "../.next/components/Container"
+import Container from "../components/Container"
 import fetch from "isomorphic-fetch"
-import Users from "../.next/components/Users"
+import Users from "../components/Users"
 
 const Index = (props) =>{
     return (
